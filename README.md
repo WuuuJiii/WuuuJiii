@@ -21,13 +21,13 @@
 
 
 
-# Current Github Streak:
+## Current Github Streak:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WuuuJiii)](https://git.io/streak-stats)
 
-# 📊 GitHub Dashboard:
+## 📊 GitHub Dashboard:
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=WuuuJiii" width="600" /></a>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WuuuJiii&bg_color=30,0ff1ce,904e95&title_color=000&text_color=000&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WuuuJiii&bg_color=30,0ff1ce,904e95&title_color=000&text_color=000&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
