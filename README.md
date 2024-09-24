@@ -31,3 +31,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WuuuJiii&bg_color=30,0ff1ce,904e95&title_color=000&text_color=000&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WuuuJiii&bg_color=30,0ff1ce,904e95&title_color=000&text_color=000&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+[![](https://visitcount.itsvg.in/api?id=WuuuJiii&label=Profile%20Views&color=6&icon=3&pretty=false)](https://visitcount.itsvg.in)
