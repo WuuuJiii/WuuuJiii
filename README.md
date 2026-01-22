@@ -1,6 +1,6 @@
 # Hi there, I'm Wu Ji 👋
 
-- 🎓 I’m currently a Penultimate Computer Science Undergraduate Student at Nanyang Technological University, Singapore.
+- 🎓 I’m currently a Final Year Computer Science Undergraduate Student at Nanyang Technological University, Singapore.
 
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
